@@ -134,7 +134,7 @@ I believe great AI isn't just about model accuracy — it's about clarity of thi
 |----------|------|
 | 💼 **LinkedIn** | [sri-pushpa-latha-garaga](https://www.linkedin.com/in/sri-pushpa-latha-garaga) |
 | 💻 **GitHub** | [gsripushpalatha](https://github.com/gsripushpalatha) |
-| 🌐 **Portfolio** | [your-portfolio.dev](https://gsripushpalatha.github.io/My-Portfolio) |
+| 🌐 **Portfolio** | [gsripushpalatha.dev](https://gsripushpalatha.github.io/My-Portfolio) |
 | 📧 **Email** | [gsripushpalatha@gmail.com](mailto:gsripushpalatha@gmail.com) |
 
 </div>
